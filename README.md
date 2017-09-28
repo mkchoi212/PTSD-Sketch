@@ -1,13 +1,24 @@
 # PTSD Study Sketch
-This repo contains `.sketch` files containing the following mockups
-1. Application Logo
-2. Android Watch
-3. Apple Watch
-4. iPhone X
-5. Symbols
+## Repo Layout
+
+### PTSD_MOCKUP
+
+This `.sketch` file contains mockups to the following devices
+
+1. Android Watch (Moto 360)
+2. Apple Watch
+3. iPhone X
+
+### Heart Rate Measurement Industry Comparison
+
+Self-explanatory
+
+### Folders
+
+The folders contain respective slices/screenshots in `.png` format.
 
 ## .sketch
-For those who are not familiar with Sketch, please go to their [webiste](https://www.sketchapp.com) and download their 30 day trial software to open and review any `.sketch` files
+For those who are not familiar with Sketch, please go to their [website](https://www.sketchapp.com) and download their 30 day trial software to open and review any `.sketch` files
 
 ## Got any questions?
 
