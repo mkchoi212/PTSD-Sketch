@@ -1,8 +1,9 @@
-# PTSD Study Sketch
-## Repo Layout
+<p align="center">
+  <img src="https://github.com/mkchoi212/PTSD-Sketch/blob/master/watchOS/Heart%20Rate.png" width="400">
+  <h3 align="center">PTSD Study Application Mockups</h3>
+</p>
 
 ### PTSD_MOCKUP
-
 This `.sketch` file contains mockups to the following devices
 
 1. Android Watch (Moto 360)
