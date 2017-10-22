@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mkchoi212/PTSD-Sketch/blob/v-menu/watchOS/Menu%201.png" width="400">
+  <img src="https://github.com/mkchoi212/PTSD-Sketch/blob/master/watchOS/Menu%201.png" width="400">
   <h3 align="center">PTSD Study Application Mockups</h3>
 </p>
 
