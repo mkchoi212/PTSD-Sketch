@@ -1,9 +1,5 @@
 <p align="center">
-<<<<<<< HEAD
-  <img src="https://github.com/mkchoi212/PTSD-Sketch/blob/master/watchOS/Heart%20Rate.png" width="400">
-=======
   <img src="https://github.com/mkchoi212/PTSD-Sketch/blob/v-menu/watchOS/Menu%201.png" width="400">
->>>>>>> v-menu
   <h3 align="center">PTSD Study Application Mockups</h3>
 </p>
 
